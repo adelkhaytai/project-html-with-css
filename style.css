@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+*{
+  
+    font-family: roboto, sans-serif;font-size: 20px;
+    background-color: black; color: bisque;}
+   
+section .nav{margin: 40px;margin-top: 40px;}
+section .navbar{margin: 40px;margin-top: 100px;}
+section .navbar a{
+    display: inline;
+    padding: 10px;
+    font-size: 25px;
+    text-decoration: none;
+    color: azure;
+    background-color: rgb(36, 36, 36);
+    border-radius: 10px;
+}
+section nav .title{
+    background-color: black;
+    color:rgb(5, 77, 77);
+    padding-right: 300px;
+    font-size: 50px;
+    cursor: none;
+}
+section .navbar  :hover{
+    font-size: 40px;
+    color: red;
+    background-color: black;
+}
+.link a{
+    color: green;
+}
+.contact{margin: 60px;margin-left: 600px;}
+.contact a{font-size: 40px;color: aqua;}
+.inputs label{ margin-left: 90px;}
+.inputs input{margin:10px;border-radius: 10px;padding: 10px;}
+.btn{
+    text-decoration: none;
+    margin-left: 53px;
+    color: black;
+    background-color: rgb(255, 255, 255);
+     padding: 10px;
+     border-radius: 10px;
+     margin: 50px;
+}
+.inputs{
+    padding: 50px;
+    margin: 10px;
+    margin-left: -40px;
+    border: solid white 1px;
+    width: 250px;
+    border-radius: 10px;
+}
+.contact textarea{margin-top: 30px;color: aliceblue;}
+.me{margin: 50px;}
+.me h2 b{font-size:60px;padding: 20px;margin: 10px;}
